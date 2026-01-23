@@ -1,0 +1,5 @@
+Ce protocole utilise t-il des methodes HTTP? si oui lesquels
+Pourquoi  ce protocole utilise le POST au lieu du GET?
+Est-ce que XML-RPC inclut des mécanismes de sécurité natifs (comme HTTPS ou l'authentification) ? XX
+Pourquoi dit-on que XML-RPC est "verbeux" ?
+Pensez-vous que XML-RPC est obsolète ? Pourquoi est-il encore utilisé dans certains systèmes ?
