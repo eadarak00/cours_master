@@ -1,0 +1,38 @@
+Projet - Gestion des alumnis
+Architecture : Microservice
+Description :
+C'est un projet de mise en relation entre les alumnis
+Dans la plateforme, 
+
+--> Etudiants Peuvent:
+Se connecter 
+creer leur CV
+Telecharger leurs CV
+Inviter des alumnis a integrer la plateforme ou d'autres etudiants
+Rechercher un alumni
+Envoyer un message a un Alumni
+
+--> Alumni
+Peuvent se connecter dans la plateforme
+Consulter le CV d'un etudiant
+Telecharger le CV d'un etudiant sur demande
+Recherche un alumni
+Inviter un alumni
+Envoyer des messages
+Partager des informations(Offres d'emploi, Formation,...)
+
+--> L'administrateur peut:
+Se connecter
+Consulter les CV
+Acceder a son tableau de bord
+Inviter des alumnis pour accroitre le reseau
+Monitorer la plateforme
+
+
+Methodologie de developpement : Agile
+
+Taches a faire: 
+1- Identifier tout les epics les user story et les taches, les sous-taches, etc. 
+2- Mise en place des contrats
+
+
